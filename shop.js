@@ -41,7 +41,7 @@ document.querySelector('.black-bg-modal').addEventListener('click',function(e){
     }
 })
 
-
+ 
 
 
 ////////////////////////// json파일에서 데이터 가져와서 card 그리기

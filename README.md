@@ -10,3 +10,6 @@
 8. 입력완료버튼 : canvas로 영수증 보여주기
 
 - 자바스크립트 공부 이후 만든 소소한 프로젝트
+
+
+- 배포 홈페이지 링크 : https://parkgeonwo.github.io/project_javascript/
